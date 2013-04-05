@@ -1,0 +1,1 @@
+settings = {	orientation =	{		default ="portrait",		content = "portrait",		supported =		{			"portrait"		},	},	android =	{		supportsScreens =		{			smallScreens = false,			normalScreens = true,			largeScreens = true,			xlargeScreens = true,		},		versionCode = "108"	},	androidPermissions =	{		"android.permission.INTERNET",	},}
